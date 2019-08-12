@@ -1,0 +1,559 @@
+[
+    {
+        "id" : "1",
+        "cost" : "4",
+        "origin" : "Ninja",
+        "class" : "Assassin",
+        "name" : "Akali",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Akali.png",
+        "pngalt" : "Akali"
+    },
+    {
+        "id" : "2",
+        "cost" : "2",
+        "origin" : "Ninja",
+        "class" : "Assassin",
+        "name" : "Zed",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Zed.png",
+        "pngalt" : "Zed"
+        
+    },
+    {
+        "id" : "3",
+        "cost" : "4",
+        "origin" : "Soylu",
+        "class" : "Şövalye",
+        "name" : "Kayle",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Kayle.png",
+        "pngalt" : "Kayle"
+        
+    },
+    {
+        "id" : "4",
+        "cost" : "1",
+        "origin" : "Seçkin",
+        "class" : "Şövalye",
+        "name" : "Darius",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Darius.png",
+        "pngalt" : "Darius"
+        
+    },
+    {
+        "id" : "5",
+        "cost" : "3",
+        "origin" : "İblis",
+        "class" : "Büyücü",
+        "name" : "Morgana",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Morgana.png",
+        "pngalt" : "Morgana"
+        
+    },
+    {
+        "id" : "6",
+        "cost" : "4",
+        "origin" : "Hextech",
+        "class" : "Dövüşçü",
+        "name" : "Vi",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Vi.png",
+        "pngalt" : "Vi"
+        
+    },
+    {
+        "id" : "7",
+        "cost" : "3",
+        "origin" : "Hextech",
+        "class" : "Şekildeğiştirici",
+        "name" : "Jayce",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Jayce.png",
+        "pngalt" : "Jayce"
+        
+    },
+    {
+        "id" : "8",
+        "cost" : "1",
+        "origin" : "İblis",
+        "class" : "Şekildeğiştirici",
+        "name" : "Elise",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Elise.png",
+        "pngalt" : "Elise"
+        
+    },
+    {
+        "id" : "9",
+        "cost" : "1",
+        "origin" : "Soylu",
+        "class" : "Kılıçustası",
+        "name" : "Fiora",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Fiora.png",
+        "pngalt" : "Fiora"
+        
+    },
+    {
+        "id" : "10",
+        "cost" : "1",
+        "origin" : "Soylu",
+        "class" : "Şövalye",
+        "name" : "Garen",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Garen.png",
+        "pngalt" : "Garen"
+        
+    },
+    {
+        "id" : "11",
+        "cost" : "1",
+        "origin" : "Korsan",
+        "class" : "Silahşör",
+        "name" : "Graves",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Graves.png",
+        "pngalt" : "Graves"
+        
+    },
+    {
+        "id" : "12",
+        "cost" : "1",
+        "origin" : "Hiçlik",
+        "class" : "Büyücü",
+        "name" : "Kassadin",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Kassadin.png",
+        "pngalt" : "Kassadin"
+        
+    },
+    {
+        "id" : "13",
+        "cost" : "1",
+        "origin" : "Hiçlik",
+        "class" : "Assassin",
+        "name" : "Khazix",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Khazix.png",
+        "pngalt" : "Khazix"
+        
+    },
+    {
+        "id" : "14",
+        "cost" : "1",
+        "origin" : "Hayalet",
+        "class" : "Şövalye",
+        "name" : "Mordekaiser",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Mordekaiser.png",
+        "pngalt" : "Morderkaiser"
+        
+    },
+    {
+        "id" : "15",
+        "cost" : "1",
+        "origin" : "Vahşi",
+        "class" : "Şekildeğiştirici",
+        "name" : "Nidalee",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Nidalee.png",
+        "pngalt" : "Nidalee"
+        
+    },
+    {
+        "id" : "16",
+        "cost" : "1",
+        "origin" : "Yordle",
+        "class" : "Silahşör",
+        "name" : "Tristana",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Tristana.png",
+        "pngalt" : "Tristana"
+        
+    },
+    {
+        "id" : "17",
+        "cost" : "1",
+        "origin" : "Soylu",
+        "class" : "Kolcu",
+        "name" : "Vayne",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Vayne.png",
+        "pngalt" : "Vayne"
+        
+    },
+    {
+        "id" : "18",
+        "cost" : "1",
+        "origin" : "Vahşi",
+        "class" : "Dövüşçü",
+        "name" : "Warwick",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Warwick.png",
+        "pngalt" : "Warwick"
+        
+    },
+    {
+        "id" : "19",
+        "cost" : "1",
+        "origin" : "Hextech",
+        "class" : "Kılıçustası",
+        "name" : "Camille",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Camille.png",
+        "pngalt" : "Camille"
+        
+    },
+    {
+        "id" : "20",
+        "cost" : "2",
+        "origin" : "Vahşi",
+        "class" : "Büyücü",
+        "name" : "Ahri",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Ahri.png",
+        "pngalt" : "Ahri"
+        
+    },
+    {
+        "id" : "21",
+        "cost" : "2",
+        "origin" : "Robot",
+        "class" : "Dövüşçü",
+        "name" : "Blitzcrank",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Blitzcrank.png",
+        "pngalt" : "Blitzcrank"
+        
+    },
+    {
+        "id" : "22",
+        "cost" : "2",
+        "origin" : "Buzul",
+        "class" : "Muhafız",
+        "name" : "Braum",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Braum.png",
+        "pngalt" : "Braum"
+        
+    },
+    {
+        "id" : "23",
+        "cost" : "2",
+        "origin" : "Buzul",
+        "class" : "Elementalist",
+        "name" : "Lissandra",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Lissandra.png",
+        "pngalt" : "Lissandra"
+        
+    },
+    {
+        "id" : "24",
+        "cost" : "2",
+        "origin" : "Soylu",
+        "class" : "Silahşör",
+        "name" : "Lucian",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Lucian.png",
+        "pngalt" : "Lucian"
+        
+    },
+    {
+        "id" : "25",
+        "cost" : "2",
+        "origin" : "Yordle",
+        "class" : "Büyücü",
+        "name" : "Lulu",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Lulu.png",
+        "pngalt" : "Lulu"
+        
+    },
+    {
+        "id" : "26",
+        "cost" : "2",
+        "origin" : "Korsan",
+        "class" : "Asssasin",
+        "name" : "Pyke",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Pyke.png",
+        "pngalt" : "Pyke"
+        
+    },
+    {
+        "id" : "27",
+        "cost" : "2",
+        "origin" : "Hiçlik",
+        "class" : "Dövüşçü",
+        "name" : "Reksai",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/RekSai.png",
+        "pngalt" : "Reksai"
+        
+    },
+    {
+        "id" : "28",
+        "cost" : "2",
+        "origin" : "Ninja",
+        "class" : "Kılıçustası",
+        "name" : "Shen",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Shen.png",
+        "pngalt" : "Shen"
+        
+    },
+    {
+        "id" : "29",
+        "cost" : "2",
+        "origin" : "İblis",
+        "class" : "Kolcu",
+        "name" : "Varus",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Varus.png",
+        "pngalt" : "Varus"
+        
+    },
+    {
+        "id" : "30",
+        "cost" : "2",
+        "origin" : "Korsan",
+        "class" : "Büyücü",
+        "name" : "Twisted Fate",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/TwistedFate.png",
+        "pngalt" : "Twisted Fate"
+        
+    },
+    {
+        "id" : "31",
+        "cost" : "3",
+        "origin" : "İblis",
+        "class" : "Kılıçustası",
+        "name" : "Aatrox",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Aatrox.png",
+        "pngalt" : "Aatrox"
+        
+    },
+    {
+        "id" : "32",
+        "cost" : "3",
+        "origin" : "Buzul",
+        "class" : "Kolcu",
+        "name" : "Ashe",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Ashe.png",
+        "pngalt" : "Ashe"
+        
+    },
+    {
+        "id" : "33",
+        "cost" : "3",
+        "origin" : "İblis",
+        "class" : "Assassin",
+        "name" : "Evelynn",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Evelynn.png",
+        "pngalt" : "Evelynn"
+        
+    },
+    {
+        "id" : "34",
+        "cost" : "3",
+        "origin" : "Korsan",
+        "class" : ["Silahşör","Kılıçustası"], 
+        "name" : "Gangplank",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Gangplank.png",
+        "pngalt" : "Gangplank"
+        
+    },
+    {
+        "id" : "35",
+        "cost" : "3",
+        "origin" : "Seçkin",
+        "class" : "Asssasin",
+        "name" : "Katarina",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Katarina.png",
+        "pngalt" : "Katarina"
+        
+    },
+    {
+        "id" : "36",
+        "cost" : "3",
+        "origin" : ["Ninja","Yordle"],
+        "class" : "Elementalist",
+        "name" : "Kennen",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Kennen.png",
+        "pngalt" : "Kennen"
+        
+    },
+    {
+        "id" : "37",
+        "cost" : "3",
+        "origin" : "Yordle",
+        "class" : "Şövalye",
+        "name" : "Poppy",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Poppy.png",
+        "pngalt" : "Poppy"
+        
+    },
+    {
+        "id" : "38",
+        "cost" : "3",
+        "origin" : "Vahşi",
+        "class" : "Assassin",
+        "name" : "Rengar",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Rengar.png",
+        "pngalt" : "Rengar"
+        
+    },
+    {
+        "id" : "39",
+        "cost" : "3",
+        "origin" : "Ejderha",
+        "class" : "Şekildeğiştirici",
+        "name" : "Shyvana",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Shyvana.png",
+        "pngalt" : "Shyvana"
+        
+    },
+    {
+        "id" : "40",
+        "cost" : "3",
+        "origin" : "Yordle",
+        "class" : "Büyücü",
+        "name" : "Veigar",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Veigar.png",
+        "pngalt" : "Veigar"
+        
+    },
+    {
+        "id" : "41",
+        "cost" : "3",
+        "origin" : "Buzul",
+        "class" : "Dövüşçü",
+        "name" : "Volibear",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Volibear.png",
+        "pngalt" : "Volibear"
+        
+    },
+    {
+        "id" : "42",
+        "cost" : "4",
+        "origin" : "Ejderha",
+        "class" : "Büyücü",
+        "name" : "Aurelion Sol",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/AurelionSol.png",
+        "pngalt" : "Aurelion Sol"
+        
+    },
+    {
+        "id" : "43",
+        "cost" : "4",
+        "origin" : "İblis",
+        "class" : "Elementalist",
+        "name" : "Brand",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Brand.png",
+        "pngalt" : "Brand"
+        
+    },
+    {
+        "id" : "44",
+        "cost" : "4",
+        "origin" : "Hiçlik",
+        "class" : "Dövüşçü",
+        "name" : "Chogath",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Chogath.png",
+        "pngalt" : "Chogath"
+        
+    },
+    {
+        "id" : "45",
+        "cost" : "4",
+        "origin" : "Seçkin",
+        "class" : "Kılıçustası",
+        "name" : "Draven",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Draven.png",
+        "pngalt" : "Draven"
+        
+    },
+    {
+        "id" : "46",
+        "cost" : "4",
+        "origin" : ["Vahşi","Yordle"],
+        "class" : "Şekildeğiştirici",
+        "name" : "Gnar",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Gnar.png",
+        "pngalt" : "Gnar"
+        
+    },
+    {
+        "id" : "47",
+        "cost" : "4",
+        "origin" : "Hayalet",
+        "class" : "Kolcu",
+        "name" : "Kindred",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Kindred.png",
+        "pngalt" : "Kindred"
+        
+    },
+    {
+        "id" : "48",
+        "cost" : "4",
+        "origin" : "Soylu",
+        "class" : "Muhafız",
+        "name" : "Leona",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Leona.png",
+        "pngalt" : "Leona"
+        
+    },
+    {
+        "id" : "49",
+        "cost" : "Buzul",
+        "class" : "Şövalye",
+        "name" : "Sejuani",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Sejuani.png",
+        "pngalt" : "Sejuani"
+        
+    },
+    {
+        "id" : "50",
+        "cost" : "4",
+        "origin" : "Hextech",
+        "class" : "Silahşör",
+        "name" : "Jinx",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Jinx.png",
+        "pngalt" : "Jinx"
+        
+    },
+    {
+        "id" : "51",
+        "cost" : "5",
+        "origin" : "Buzul",
+        "class" : "Elementalist",
+        "name" : "Anivia",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Anivia.png",
+        "pngalt" : "Anivia"
+        
+    },
+    {
+        "id" : "52",
+        "cost" : "5",
+        "origin" : "Hayalet",
+        "class" : "Büyücü",
+        "name" : "Karthus",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Karthus.png",
+        "pngalt" : "Karthus"
+        
+    },
+    {
+        "id" : "53",
+        "cost" : "5",
+        "origin" : "Korsan",
+        "class" : "Silahşör",
+        "name" : "Miss Fortune",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/MissFortune.png",
+        "pngalt" : "Miss Fortune"
+        
+    },
+    {
+        "id" : "54",
+        "cost" : "5",
+        "origin" : ["Seçkin","İblis"],
+        "class" : "Şekildeğiştiric",
+        "name" : "Swain",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Swain.png",
+        "pngalt" : "Swain"
+        
+    },
+    {
+        "id" : "55",
+        "cost" : "5",
+        "origin" : "Sürgün",
+        "class" : "Kılıçustası",
+        "name" : "Yasuo",
+        "pngurl" : "https://ddragon.leagueoflegends.com/cdn/9.13.1/img/champion/Yasuo.png",
+        "pngalt" : "Yasuo"
+        
+    }
+
+
+
+
+
+
+
+
+
+]
